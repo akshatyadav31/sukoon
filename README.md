@@ -1,4 +1,4 @@
-## Sukoon README Points:
+## Sukoon
 
 **1. Introduction:**
 
